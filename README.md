@@ -4,7 +4,7 @@ Users have the chance to play against the Computer, which picks random options b
 
 
 
- <a href=[http://www.example.com](https://ui.dev/amiresponsive?url=https://rock-scissors-paper-game-ae1fc5c48083.herokuapp.com/)>Here is a live version of my project</a>
+ <a href=[https://ui.dev/amiresponsive?url=https://rock-scissors-paper-game-ae1fc5c48083.herokuapp.com/>Here is a live version of my project</a>
  
 <img width="960" alt="rock, scissors, paper" src="https://github.com/caleb1711/Rock-Scissors-Paper/assets/130179631/a31eda77-a036-4f26-a199-2964322d7a4a">
 
