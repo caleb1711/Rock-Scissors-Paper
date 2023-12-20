@@ -4,10 +4,31 @@ Users have the chance to play against the Computer, which picks random options b
 
 
 
- <a href=https://ui.dev/amiresponsive?url=https://rock-scissors-paper-game-ae1fc5c48083.herokuapp.com>Here is a live version of my project</a>
+ 
  
 <img width="960" alt="rock, scissors, paper" src="https://github.com/caleb1711/Rock-Scissors-Paper/assets/130179631/a31eda77-a036-4f26-a199-2964322d7a4a">
 
+
+
+
+
+# How to play
+It has three possible outcomes: a draw, a win or a loss. A player who decides to play rock will beat the Computer, which has chosen scissors ("rock crushes scissors" or "breaks scissors" or sometimes "blunts scissors", but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper"). If both players choose the same shape, the game is tied and is usually replayed to break the tie.
+
+
+
+
+# Features
+
+### Existing features
+
+##### User plays against Computer
+##### Computer makes random choices between rock, paper and scissors
+##### User can make a choice between rock, paper and scissors
+##### Gives Users the options to start again regardless of a win or a loose
+
+
+<img width="960" alt="features" src="https://github.com/caleb1711/Rock-Scissors-Paper/assets/130179631/8a79e8b8-5051-431a-8248-a2d0e82fd0c7">
 
 
 
